@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimitriskariof
-- 👀 I’m interested in Full Stack Web Developing
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Spring FrameWork, HTML5, CSS, Javascript
 - 📫 How to reach me ... dimitriskar13@gmail.com
 
