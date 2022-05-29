@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dimitriskariof
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Spring FrameWork, HTML5, CSS, Javascript
+- 👋 Hi, I’m Dimitris Kariofillakis @dimitriskariof
+- 👀 I’m currently working on and learing about Web apps
+- 🌱 My mostly used tools include Laravel, Tailwind, Spring
 - 📫 How to reach me ... dimitriskar13@gmail.com
 
 <!---
