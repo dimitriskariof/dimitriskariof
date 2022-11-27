@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitris Kariofillakis @dimitriskariof
 - 👀 I’m currently working on and learing about Web apps
-- 🌱 My mostly used tools include Laravel, Tailwind, Spring
+- 🌱 My mostly used tools include php, Laravel and Javascript
 - 📫 How to reach me ... dimitriskar13@gmail.com
 
 <!---
